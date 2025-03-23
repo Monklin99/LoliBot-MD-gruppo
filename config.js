@@ -9,12 +9,12 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['5214774444444', '2971999', true], ['593968585383'], ['85244317462'], ['5219999699999'], ['5217441452981'], ['523482800300'], ['573007487856'], ['573008499604'], ['5492266613038']]
-global.mods = []
-global.prems = []
+global.owner = [[3885608547]]
+global.mods = [3885608547]
+global.prems = [3885608547]
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+62 831-5384-1970" //Ejemplo: +59309090909
 global.confirmCode = "" 
 global.gataJadibts = true //cambia a false Desactivar en "auto-reconexion" de sub-bots
 
